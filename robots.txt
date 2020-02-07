@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phieseeghe.alixcan.net/sitemap.xml
